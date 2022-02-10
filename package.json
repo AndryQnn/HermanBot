@@ -1,5 +1,5 @@
 {
-  "name": "Herman-Botz",
+  "name": "Andry-Bot",
   "version": "1",
   "description": "Jangan Spam Ya",
   "depecrated": false,
@@ -25,7 +25,7 @@
   ],
   "homepage": "https://github.com/BochilGaming/games-wabot",
   "author": {
-    "name": "BochilGaming"
+    "name": "AndryQnn"
   },
   "repository": {
     "type": "git",
