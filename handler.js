@@ -576,8 +576,8 @@ Untuk Mematikan Fitur Ini, Ketik
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: '*Khusus Owner Ngab*', 
-    owner: '*Khusus Owner Ngab*',
+    rowner: '*Lu Bukan Onwer🧐*', 
+    owner: '*Lu Bukan Onwer🧐*',
     mods: '*Khusus Moderator Ngab*',
     premium: '*Khusus Member Premium*',
     group: '*Khusus Grup*',
